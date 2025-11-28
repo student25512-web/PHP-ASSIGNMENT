@@ -1,0 +1,10 @@
+The Silent Forest,Emily Carter,Fiction,12.99,0
+Modern PHP Guide,John Stevens,Technology,18.50,1
+Lost in Paradise,Sarah Milton,Romance,10.00,1
+Mastering Java,Owen Harris,Education,22.75,0
+The Last Kingdom,Robert Hale,History,15.40,0
+Deep Space Mission,Laura Kim,Science Fiction,14.20,0
+Cooking with Love,Mary Adams,Cooking,9.99,0
+The Business Mind,Adam Knox,Business,20.00,1
+Hidden Truths,Sophia Lane,Mystery,13.50,0
+Gardening Basics,Peter Jones,Lifestyle,8.25,1
